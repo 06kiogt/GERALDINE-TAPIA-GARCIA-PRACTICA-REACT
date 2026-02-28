@@ -35,7 +35,7 @@ function Presentacion (){
             />
             <Datos 
             
-            texto="Jesús Abdiel García Crescencio (2431102073)"
+            texto="Cinthya Gonzalez Armenta (2431102059)"
             />
            
             <Datos 
