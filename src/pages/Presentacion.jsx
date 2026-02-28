@@ -35,7 +35,7 @@ function Presentacion (){
             />
             <Datos 
             
-            texto="Cinthya Gonzalez Armenta (2431102059)"
+            texto="GERALDINE TAPIA GARCIA (2431102062)"
             />
            
             <Datos 
